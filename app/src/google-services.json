@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49611499733",
+    "project_id": "holidayplanner-6aebf",
+    "storage_bucket": "holidayplanner-6aebf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49611499733:android:40acd4623f355c8c9e5a5c",
+        "android_client_info": {
+          "package_name": "com.example.holidayplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6g1_psffhIT8pwsl2lu5DPyV4eBdU4F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
